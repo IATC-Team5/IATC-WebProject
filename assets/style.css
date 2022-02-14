@@ -56,7 +56,7 @@ body {
 
 .navbar a {
     color: #fff;
-    transition: all 0.3s ease-out;
+    transition: all 0.2s ease-out;
 }
 
 .navbar a:hover {
@@ -250,7 +250,7 @@ footer i {
         align-items: center;
         background-color: #192459;
         margin-top: -900px;
-        transition: all 0.3s ease;
+        transition: all 0.2s ease;
         padding-top: 15px;
     }
 
