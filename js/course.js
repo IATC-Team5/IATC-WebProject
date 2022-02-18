@@ -20,7 +20,7 @@ onValue(ref(db, "course"), (snapshot) => {
              <div class="row-1">
               <div class="row">
                   <div class="col-lg-6 col-md-6">
-                      <a href="#" class="course-img"><img src="${childData.ImgUrl}" alt=""></a>
+                      <span  class="course-img"><img src="${childData.ImgUrl}"></span>
                   </div>
                   <div class="col-lg-6 col-md-6 course-text">
                       <h5>${childData.name}</h5>

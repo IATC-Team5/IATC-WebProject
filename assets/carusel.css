@@ -121,27 +121,28 @@ section .cardTeachers .image img {
 }
 
 @media screen and (max-width: 1440px) {
-  .swiperTeachers{
-    width: 960px;
-  }
-}
-@media screen and (max-width: 1024px) {
-    .swiperTeachers{
-      width: 800px;
+    .swiper{
+      width: 960px;
     }
-}
-@media screen and (max-width: 960px) {
-  .swiperTeachers{
-    width: 750px;
   }
-}
-@media screen and (max-width: 768px) {
-    .swiperTeachers{
-      width: 520px;
+  @media screen and (max-width: 1024px) {
+      .swiper{
+        width: 800px;
+      }
+  }
+  @media screen and (max-width: 960px) {
+    .swiper{
+      width: 750px;
     }
-}
-@media screen and (max-width: 640px) {
-    .swiperTeachers{
-      width: 280px;
-    }  
-}
+  }
+  @media screen and (max-width: 768px) {
+      .swiper{
+        width: 520px;
+      }
+  }
+  @media screen and (max-width: 640px) {
+      .swiper{
+        width: 280px;
+      }  
+  }
+  

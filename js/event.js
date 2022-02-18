@@ -20,8 +20,8 @@ onValue(ref(db, "events"), (snapshot) => {
           <div class="face face1" style="height:280px; width: 400px">
               <div class="content">
                   <div class="icon">
-                      <a href=""> <img src="${childData.ImgUrl}"
-                              alt=""></a>
+                      <span> <img src="${childData.ImgUrl}"
+                              alt=""></span>
                   </div>
               </div>
           </div>

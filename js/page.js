@@ -25,9 +25,9 @@ import {
       `);
       }
     });
-    $(".nav-links").append(`
-     <li class="login-btn"><a href="/index.html#course-section">Qeydiyyatdan keç</a></li>
-    `);
+    // $(".nav-links").append(`
+    //   <li class="login-btn"><a href="/index.html#course-section">Qeydiyyatdan keç</a></li>
+    // `);
   });
   
 
